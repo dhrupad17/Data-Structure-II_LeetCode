@@ -10,7 +10,9 @@
 
 | DAYS  | LEETCODE PROBLEM NO |  NAME                         |  DIFFICULTY  |   SOLUTIONS                                                    |
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
-| DAY1 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-I_LeetCode/blob/main/DAY1P1.md) |
+| DAY1 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY1P1.md) |
+|  | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY1P2.md) |
+|  | 15 | [3Sum](https://leetcode.com/problems/3sum/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY1P3.md) |
 
 
 
