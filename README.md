@@ -16,7 +16,11 @@
 | DAY2 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY2P1.md) |
 |  | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY2P2.md) |
 |  | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY2P3.md) |
-
+| DAY3 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY3P1.md) |
+|  | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY3P2.md) |
+|  | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY3P3.md) |
+| DAY4 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY4P1.md) |
+|  | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY4P2.md) |
 
 
 
