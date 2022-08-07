@@ -21,7 +21,9 @@
 |  | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY3P3.md) |
 | DAY4 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY4P1.md) |
 |  | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY4P2.md) |
-
+| DAY5 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY5P1.md) |
+|  | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY5P2.md) |
+|  | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY5P3.md) |
 
 
 ## 🛠 Skills
