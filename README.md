@@ -24,7 +24,10 @@
 | DAY5 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY5P1.md) |
 |  | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY5P2.md) |
 |  | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY5P3.md) |
-
+| DAY6 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY6P1.md) |
+|  | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY6P2.md) |
+| DAY7 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY7P1.md) |
+|  | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY7P2.md) |
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`,`Graph`,`Heap`
