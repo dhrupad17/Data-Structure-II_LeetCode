@@ -28,6 +28,13 @@
 |  | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY6P2.md) |
 | DAY7 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY7P1.md) |
 |  | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY7P2.md) |
+| DAY8 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY8P1.md) |
+|  | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY8P2.md) |
+| DAY9 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY9P1.md) |
+|  | 05 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY9P2.md) |
+| DAY10 | 02 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY10P1.md) |
+|  | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY10P2.md) |
+
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`,`Graph`,`Heap`
