@@ -40,6 +40,12 @@
 |  | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY12P2.md) |
 | DAY13 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | `Hard` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY13P1.md) |
 |  | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY13P2.md) |
+| DAY14 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY14P1.md) |
+|  | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY14P2.md) |
+|  | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY14P3.md) |
+| DAY15 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY15P1.md) |
+|  | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY15P2.md) |
+|  | 183 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY15P3.md) |
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`,`Graph`,`Heap`
