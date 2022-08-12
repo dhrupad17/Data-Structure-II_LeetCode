@@ -46,6 +46,9 @@
 | DAY15 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY15P1.md) |
 |  | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY15P2.md) |
 |  | 183 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY15P3.md) |
+| DAY16 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY16P1.md) |
+|  | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY16P2.md) |
+|  | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY16P3.md) |
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`,`Graph`,`Heap`
