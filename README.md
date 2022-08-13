@@ -53,7 +53,9 @@
 |  | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY17P2.md) |
 | DAY18 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY18P1.md) |
 |  | 297 | [ Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY18P2.md) |
-
+| DAY19 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY19P1.md) |
+|  | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY19P2.md) |
+|  | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY19P3.md) |
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`,`Graph`,`Heap`
