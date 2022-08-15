@@ -58,6 +58,8 @@
 |  | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY19P3.md) |
 | DAY20 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | `Medium` | [👉Click Here](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 |  | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY20P2.md) |
+| DAY21 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY21P1.md) |
+|  | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Data-Structure-II_LeetCode/blob/main/DAY21P2.md) |
 
 ## 🛠 Skills
 `Array`, `String`,`Linked List`,`Stack`,`Queue`,`Tree`,`Graph`,`Heap`
